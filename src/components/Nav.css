@@ -1,0 +1,11 @@
+.nav-item{
+   display: flex;
+   gap: 1.5em;
+   font-family: Montserat;
+}
+li{
+   list-style: none;
+}
+.nav-img{
+   width: 60px;
+}
