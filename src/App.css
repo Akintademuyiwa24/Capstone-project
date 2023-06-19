@@ -1,0 +1,87 @@
+.App {
+  margin: auto;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: Montserat;
+  src: url(./fonts/Montserrat-SemiBold.ttf);
+}
+@font-face {
+  font-family: OpenSans;
+  src: url(./fonts/OpenSans-Bold.ttf);
+}
+
+.btn-1{
+  padding: 10px;
+  border-radius: 20px;
+  width: 120px;
+}
+
+.flexCenter{
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.paddings{
+  padding: 1.5rem;
+}
+
+.innerwidth{
+  width: 100%;
+}
+
+.flexStart{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+}
+
+
+/* diff screens */
+@media (min-width: 1536px) {
+  .innerwidth{
+    max-width: 1280px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 640px) {
+  
+  .paddings{
+    padding: 4rem;
+  }
+  
+}
+
+@media (min-width: 1280px), (min-width: 768px) {
+  .paddings{
+    padding: 2rem;
+  }
+}
