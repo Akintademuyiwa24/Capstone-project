@@ -1,0 +1,26 @@
+.first-part{
+   background-color: #495E57;
+   padding: 27px 80px;
+   height: 320px;
+}
+.btn{
+   background-color: #f4ce14;
+   border-radius: 8px;
+   border: none;
+   color: black;
+   padding: 5px 15px;
+}
+h1{
+   font-family: OpenSans;
+}
+p{
+   font-family: montserat;
+}
+img.waiter{
+   border-radius: 10px;
+   height: 300px;
+   width: 320px;
+   position: relative;
+   top: 10%;
+   z-index: 5;
+}
