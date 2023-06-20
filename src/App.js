@@ -18,7 +18,7 @@ function App() {
   return (
     <div className='App'>
       <div className="container">
-        <nav className='navbar bg-light'>
+        <nav className='navbar'>
           <img src={logo} alt="logo" width={80} />
           <Link to="/" className='nav-item'>Home</Link>
           <Link to="/hero" className='nav-item'>About</Link>

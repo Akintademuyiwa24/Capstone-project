@@ -15,7 +15,7 @@
 
 
 .App-link {
-  color: #61dafb;
+  /* color: #61dafb; */
 }
 
 @keyframes App-logo-spin {
@@ -35,53 +35,15 @@
   font-family: OpenSans;
   src: url(./fonts/OpenSans-Bold.ttf);
 }
-
-.btn-1{
-  padding: 10px;
-  border-radius: 20px;
-  width: 120px;
+.navbar {
+  color: black;
+  padding: 6px 250px 2px 100px;
+  font-family: OpenSans;
+  font-size: 13px;
 }
 
-.flexCenter{
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-.paddings{
-  padding: 1.5rem;
-}
-
-.innerwidth{
-  width: 100%;
-}
-
-.flexStart{
-  display: flex;
-  justify-content:flex-start;
-  align-items: center;
-}
-
-
-/* diff screens */
-@media (min-width: 1536px) {
-  .innerwidth{
-    max-width: 1280px;
-    margin: auto;
-  }
-}
-
-@media (min-width: 640px) {
-  
-  .paddings{
-    padding: 4rem;
-  }
-  
-}
-
-@media (min-width: 1280px), (min-width: 768px) {
-  .paddings{
-    padding: 2rem;
-  }
+.nav-item{
+  color:black;
+  list-style: none;
+  text-decoration: none;
 }

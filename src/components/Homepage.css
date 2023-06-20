@@ -12,9 +12,10 @@
 }
 h1{
    font-family: OpenSans;
+   color: #f4ce14;
 }
 p{
-   font-family: montserat;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 img.waiter{
    border-radius: 10px;

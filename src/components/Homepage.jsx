@@ -10,8 +10,8 @@ function Homepage() {
       <div className="container">
         <div className="row">
           <div className="col-6">
-            <h1 style={{color: 'yellowgreen'}}>Little Lemon</h1>
-            <h3 style={{color: 'white'}}>Chicago</h3>
+            <h1>Little Lemon</h1>
+            <h3 style={{color: 'white', marginTop: -12, marginBottom: 18, fontSize: 24}}>Chicago</h3>
             <p style={{color: 'white'}}>
               We are a family owned <br />
               Mediterranean restaurant, <br />

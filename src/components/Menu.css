@@ -1,12 +1,25 @@
 .spans{
    color: #f4ce14;
+   margin-left: 90px;
+   font-weight: bold;
 }
 .menu{
    background-color: #edefee;
    border-radius: 8px;
    margin-left: 20px;
+   padding: 10px;
 }
 .specials{
    position: relative;
-   right: -50px;
+   right: -5px;
+}
+h1{
+   font-size: 30px;
+}
+.menu-tab{
+   padding: 5px 50px 2px 100px;
+}
+h4{
+   font-size: 12px;
+   font-weight: bold;
 }
