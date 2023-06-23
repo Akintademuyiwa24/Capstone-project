@@ -1,25 +1,46 @@
 .spans{
-   color: #f4ce14;
-   margin-left: 90px;
+   color: #615104;
+   margin-left: 70px;
    font-weight: bold;
 }
 .menu{
    background-color: #edefee;
    border-radius: 8px;
    margin-left: 20px;
-   padding: 10px;
+   padding: 0;
+   /* padding: 10px; */
 }
 .specials{
    position: relative;
-   right: -5px;
+   right: 15px;
+   font-size: 12px;
+   font-family: OpenSans;
+   margin-bottom:15px ;
+}
+.specials:hover{
+   background-color: green;
+   color: white;
 }
 h1{
    font-size: 30px;
 }
 .menu-tab{
-   padding: 5px 50px 2px 100px;
+   padding: 5px 50px 2px 180px;
 }
 h4{
    font-size: 12px;
    font-weight: bold;
+   margin-bottom: 30px;
+   padding: 5px 15px;
+}
+.lem{
+   padding: 5px 5px;
+}
+.b-img{
+   width: 120%;
+}
+p{
+   font-size: 12px;
+   font-family: montserat;
+   padding: 1px 15px;
 }

@@ -1,7 +1,11 @@
 .first-part{
    background-color: #495E57;
-   padding: 27px 80px;
+   padding: 27px 120px;
    height: 320px;
+   max-width: 100%;
+}
+.ch{
+   padding: 27;
 }
 .btn{
    background-color: #f4ce14;
@@ -9,13 +13,17 @@
    border: none;
    color: black;
    padding: 5px 15px;
+   font-family: OpenSans;
+   font-size: 14px;
 }
 h1{
    font-family: OpenSans;
    color: #f4ce14;
 }
-p{
+.p-home{
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding:0;
+   font-size: 14px;
 }
 img.waiter{
    border-radius: 10px;

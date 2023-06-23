@@ -37,9 +37,9 @@
 }
 .navbar {
   color: black;
-  padding: 6px 250px 2px 100px;
+  padding: 6px 120px 2px 50px;
   font-family: OpenSans;
-  font-size: 13px;
+  font-size: 11px;
 }
 
 .nav-item{

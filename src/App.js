@@ -27,6 +27,7 @@ function App() {
           <Link to="/order" className='nav-item'>Order Online</Link>
           <Link to="/login" className='nav-item'>Login</Link>
         </nav>
+        </div>
       <Routes>
         <Route path="/hero" element={<Heropage/>}></Route>
         <Route path="/" element={<Homepage />}></Route>
@@ -35,8 +36,6 @@ function App() {
         <Route path="/order" element={<OrderOnline />}></Route>
         <Route path="/login" element={<Login/>}></Route>
       </Routes>
-      <Footer />
-    </div>
     </div>
   );
 }
