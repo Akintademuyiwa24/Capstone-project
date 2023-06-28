@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.914b5107.css",
+    "main.js": "/react-gh-pages/static/js/main.2535de88.js",
+    "static/js/787.635aedaa.chunk.js": "/react-gh-pages/static/js/787.635aedaa.chunk.js",
+    "static/media/lemon-dessert-lasagne-154312-2.jpg": "/react-gh-pages/static/media/lemon-dessert-lasagne-154312-2.5e3bf9bc2628ce0482ad.jpg",
+    "static/media/saladd.jpg": "/react-gh-pages/static/media/saladd.ce202f25875ed587f5a7.jpg",
+    "static/media/OpenSans-Bold.ttf": "/react-gh-pages/static/media/OpenSans-Bold.728c265bc5aed977c34f.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/react-gh-pages/static/media/Montserrat-SemiBold.62b8eee010e3957d425f.ttf",
+    "static/media/115168_45900_7388b824-b2f0-4ffa-ae56-58d13a637de8.jpg": "/react-gh-pages/static/media/115168_45900_7388b824-b2f0-4ffa-ae56-58d13a637de8.77ad8033854a45b81fc5.jpg",
+    "static/media/istockphoto-1181611076-612x612.jpg": "/react-gh-pages/static/media/istockphoto-1181611076-612x612.326d119964f7832c015a.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.914b5107.css.map": "/react-gh-pages/static/css/main.914b5107.css.map",
+    "main.2535de88.js.map": "/react-gh-pages/static/js/main.2535de88.js.map",
+    "787.635aedaa.chunk.js.map": "/react-gh-pages/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914b5107.css",
+    "static/js/main.2535de88.js"
+  ]
+}
