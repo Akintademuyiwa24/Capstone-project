@@ -1,11 +1,6 @@
 .first-part{
    background-color: #495E57;
-   padding: 27px 120px;
-   height: 320px;
-   max-width: 100%;
-}
-.ch{
-   padding: 27;
+   padding: 27px;
 }
 .btn{
    background-color: #f4ce14;
@@ -29,7 +24,8 @@ img.waiter{
    border-radius: 10px;
    height: 300px;
    width: 320px;
-   position: relative;
-   top: 10%;
-   z-index: 5;
+}
+
+.homep{
+   margin-bottom: 30px;
 }

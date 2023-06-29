@@ -37,7 +37,8 @@
 }
 .navbar {
   color: black;
-  padding: 6px 120px 2px 50px;
+  /* padding: 6px 130px 2px 50px; */
+  /* padding-right: 10px; */
   font-family: OpenSans;
   font-size: 11px;
 }
